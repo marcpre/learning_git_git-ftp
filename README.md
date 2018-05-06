@@ -13,6 +13,8 @@ chmod 755 "C:\Program Files (x86)\Git\bin\git-ftp"
 [Installation Instructions](https://github.com/git-ftp/git-ftp/blob/master/INSTALL.md)
 [Git Url Windows ](https://stackoverflow.com/questions/50197203/using-curl-with-windows-path)
 
+## Config
+
 ### Config git-ftp
 
 ```
