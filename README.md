@@ -28,7 +28,7 @@ cp /c/"Program Files (x86)"/Git/git-ftp.git/git-ftp /c/"Program Files (x86)"/Git
 
 ```
 # Setup
-git config git-ftp.url "ftp://ftp.www323.your-server.de:21/public_html"
+git config git-ftp.url "xxxx"
 git config git-ftp.user "xxxx"
 git config git-ftp.password "xxxx"
 
