@@ -10,7 +10,16 @@ curl https://raw.githubusercontent.com/git-ftp/git-ftp/master/git-ftp > "C:\Prog
 chmod 755 "C:\Program Files (x86)\Git\bin\git-ftp"
 ```
 
+or try:
+
+```
+cd /c/"Program Files"/Git
+git clone https://github.com/git-ftp/git-ftp git-ftp.git
+cp /c/"Program Files (x86)"/Git/git-ftp.git/git-ftp /c/"Program Files (x86)"/Git/bin/git-ftp
+```
+
 [Installation Instructions](https://github.com/git-ftp/git-ftp/blob/master/INSTALL.md)
+[Install git-ftp under windows](http://www.codingsips.com/install-configure-git-ftp-windows/)
 [Git Url Windows ](https://stackoverflow.com/questions/50197203/using-curl-with-windows-path)
 
 ## Config
